@@ -8,6 +8,9 @@ If you would like to order one of these boards ready assembled, check out my [Ti
 ## Tasmota template
 Use this template to configure tasmota for this board `{"NAME":"Voltlog Valve Actuator revC","GPIO":[0,3200,288,3232,0,0,0,0,0,228,229,227,0,0,226,225,0,640,608,224,0,232,231,230,0,0,0,0,233,32,0,0,0,0,0,0],"FLAG":0,"BASE":1}`
 
+https://www.youtube.com/watch?v=kZS3ggG0QJI
+
+
 ## WARNING
 This board has high-voltage AC present which may cause severe personal injury or death if not handled with care. If you are in doubt, please ask for a profesional to install the system for you.
 
